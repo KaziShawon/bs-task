@@ -1,0 +1,7 @@
+# Pyenv files
+.python-version
+# Poetry Files
+poetry.lock
+pyproject.toml
+# Dataset
+/notebooks/data/*
